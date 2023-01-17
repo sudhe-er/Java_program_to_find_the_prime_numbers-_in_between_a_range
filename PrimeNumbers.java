@@ -1,6 +1,6 @@
 import java.util.*;
 import java.lang.*;
-public class Main
+public class PrimeNumbers
 {
 	public static void main(String[] args) {
 	    //Scanner class is used to take the input from the STDIN 
